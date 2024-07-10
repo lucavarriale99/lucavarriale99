@@ -19,3 +19,28 @@ Data science enthusiast who loves logical reasoning and strategic thinking. Pass
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/lucavarriale99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lucavarriale99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+<h2  align="center">Most interesting projects:</h2><br>
+<table width="100%" align="center">
+   <tr>
+    <th> &nbsp;📄</th>
+    <th><a href="https://github.com/" aligh="left"> Multi-document Summarization for News Articles Highlights Extraction </a></th>
+  </tr>
+  <tr>
+    <th> &nbsp;🇺🇳</th>
+    <th><a href="https://github.com/" aligh="left">United Nations - Time-Series Forecasting for Humanitarian Aid</a></th>
+  </tr>
+  <tr>
+    <th> &nbsp;🌎</th>
+    <th><a href="https://github.com/" aligh="left"> Deep Learning Techniques for Visual Place Recognition</a></th>
+  </tr>
+  <tr>
+    <th><img src="https://github.com/" width="20" height="18"/></th>
+    <th><a href="https://github.com/" aligh="left"> Twitter Sentiment Analysis</a></th>
+  </tr>
+  <tr>
+    <th> &nbsp;💵</th>
+    <th><a href="https://github.com/" aligh="left"> ds lab </a></th>
+  </tr>
+</table>

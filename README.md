@@ -23,24 +23,26 @@ Data science enthusiast who loves logical reasoning and strategic thinking. Pass
 
 <h2  align="center">Most interesting projects:</h2><br>
 <table width="100%" align="center">
+  <tr>
+    <th> &nbsp;🇺🇳</th>
+    <th><a href="https://github.com/lucavarriale99/Predictive-Model-For-Humanitarian-Aid" aligh="left">United Nations - Predictive Model For Humanitarian Aid</a></th>
+  </tr>
+  <tr>
+    <th> &nbsp;🌎</th>
+    <th><a href="https://github.com/lucavarriale99/Image-Geolocalization-Through-Retrieval" aligh="left"> Deep Learning Techniques for Visual Place Recognition</a></th>
+  </tr>
+    <th> &nbsp;💵</th>
+    <th><a href="https://github.com/lucavarriale99/Legal-NER-Across-Languages" aligh="left"> Legal NER Across Languages </a></th>
+  </tr>
    <tr>
     <th> &nbsp;📄</th>
     <th><a href="https://github.com/lucavarriale99/Multinews" aligh="left"> Multi-document Summarization for News Articles Highlights Extraction </a></th>
   </tr>
-  <tr>
-    <th> &nbsp;🇺🇳</th>
-    <th><a href="https://github.com/" aligh="left">United Nations - Time-Series Forecasting for Humanitarian Aid</a></th>
+   </tr>
+   <tr>
+    <th> &nbsp;📄</th>
+    <th><a href="https://github.com" aligh="left"> Data Science Project </a></th>
   </tr>
-  <tr>
-    <th> &nbsp;🌎</th>
-    <th><a href="https://github.com/" aligh="left"> Deep Learning Techniques for Visual Place Recognition</a></th>
-  </tr>
-  <tr>
-    <th><img src="https://github.com/" width="20" height="18"/></th>
-    <th><a href="https://github.com/" aligh="left"> Twitter Sentiment Analysis</a></th>
-  </tr>
-  <tr>
-    <th> &nbsp;💵</th>
-    <th><a href="https://github.com/" aligh="left"> ds lab </a></th>
-  </tr>
+  
+   
 </table>

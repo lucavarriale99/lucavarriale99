@@ -25,7 +25,7 @@ Data science enthusiast who loves logical reasoning and strategic thinking. Pass
 <table width="100%" align="center">
    <tr>
     <th> &nbsp;📄</th>
-    <th><a href="https://github.com/" aligh="left"> Multi-document Summarization for News Articles Highlights Extraction </a></th>
+    <th><a href="https://github.com/lucavarriale99/Multinews" aligh="left"> Multi-document Summarization for News Articles Highlights Extraction </a></th>
   </tr>
   <tr>
     <th> &nbsp;🇺🇳</th>
